@@ -125,7 +125,6 @@ Contributions are welcome! If you have ideas for improvements, new features, or 
 5.  Push to the branch (`git push origin feature/YourAmazingFeature`).
 6.  Open a Pull Request.
 
-Please ensure your code aligns with the project's focus on APT-based systems and the supported package managers.
 
 ## 📜 License
 
